@@ -1,7 +1,10 @@
-<h1 align="center">Hi 👋, I'm Nithya Narayanan</h1>
+<h1 align="center"> ##Hi 👋, I'm Nithya Narayanan</h1>
 <h3 align="center">Front End Developer|Data Science|Scrum Product Owner</h3>
 
 <p align="left"> <a href="https://twitter.com/neatyah" target="blank"><img src="https://img.shields.io/twitter/follow/neatyah?logo=twitter&style=for-the-badge" alt="neatyah" /></a> </p>
+<p align="center"> When I started as a software test engineer, I never knew I would have such a wonderful journey. I met some amazing professionals who taught me professional as well as some great life lessons. I led and delivered impactful projects with 100% success everywhere I went which has made me the accomplished engineer and a team-oriented leader that I am today. 
+In addition to being a mom of two beautiful daughters, I am a photography enthusiast, podcaster, resin hobbyist and an indian classical singer.</p>
+
 
 - 💬 Ask me about **React, Node.js, CSS, HTML, ETL, Python, Google Cloud , Postman, Javascript**
 
